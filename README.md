@@ -7,5 +7,5 @@
 # Library Used
 #### We Used A Library Called py-cord (discord.py fork)
 [py-cord discord](https://discord.gg/py-cord)  
-[py-cord GitHub repo](https://github.com/Pycord-Development/pycord)
+[py-cord GitHub](https://github.com/Pycord-Development/pycord)
 
