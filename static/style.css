@@ -1,0 +1,26 @@
+body {
+    /* margin: 0; */
+    padding: 0;
+    background-image: linear-gradient(280deg, aqua, red);
+}
+
+.container {
+    text-align: center;
+    /* margin-top: 400px; */
+}
+
+.invite-me-button {
+    position: fixed;
+    margin-top: 350px;
+    border-radius: 10%;
+    font-size: 20px;
+    font-family: "montserrat";
+    border: 1px solid rgb(168, 74, 50);
+    /* background-color: transparent; */
+    background-image: transparent;
+    padding: 10px 20px;
+}
+
+/* .invite-me-button:hover {
+    
+} */
